@@ -1,3 +1,4 @@
+#USO DE FUNCIONES LAMBDAS
 import math
 from functools import reduce
 
